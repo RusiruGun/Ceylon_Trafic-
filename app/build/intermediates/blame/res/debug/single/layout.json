@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_events.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\activity_events.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_2.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\roboto_calendar_week_2.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_title_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\custom_calendar_title_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\tab3_fragment.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_3.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\roboto_calendar_week_3.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appointment_edit.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\activity_appointment_edit.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_1.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\roboto_calendar_week_1.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_4.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\roboto_calendar_week_4.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\tab1_fragment.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\tab2_fragment.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_5.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\roboto_calendar_week_5.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_6.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\roboto_calendar_week_6.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\custom_calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sales_profiles.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\sales_profiles.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calender_view.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\activity_calender_view.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\container_fish.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\container_fish.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_lines.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\event_lines.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_weeks_layout.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\f89a46473ed69bb7a2c84e172ca133ce95e046e6\\output\\res\\layout\\custom_calendar_weeks_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_listview_layout.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\display_listview_layout.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab4_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout\\tab4_fragment.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    }
+]

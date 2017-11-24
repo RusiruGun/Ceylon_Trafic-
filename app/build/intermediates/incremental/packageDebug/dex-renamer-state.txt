@@ -1,0 +1,7 @@
+#Sun Aug 20 12:58:26 IST 2017
+base.0=E\:\\NethFM\\NewSalles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2e267492c9c8d28939e566a54ee0102025250a67
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\NethFM\\NewSalles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7491b16691163b17e10b11b830822693b18fcc9\\classes.dex
+base.1=E\:\\NethFM\\NewSalles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7491b16691163b17e10b11b830822693b18fcc9
+file.0=E\:\\NethFM\\NewSalles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2e267492c9c8d28939e566a54ee0102025250a67\\classes.dex

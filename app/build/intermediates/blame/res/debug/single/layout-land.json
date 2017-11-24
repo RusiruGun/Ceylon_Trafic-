@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tab1_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout-land\\tab1_fragment.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tab3_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout-land\\tab3_fragment.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\tab2_fragment.xml",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\layout-land\\tab2_fragment.xml"
+    }
+]

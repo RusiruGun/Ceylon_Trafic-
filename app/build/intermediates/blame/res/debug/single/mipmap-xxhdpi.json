@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_error_black_24dp.png",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo_trafic.png",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_trafic.png"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_note_add_white_24dp.png",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_note_add_white_24dp.png"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\NethFM\\NewSalles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

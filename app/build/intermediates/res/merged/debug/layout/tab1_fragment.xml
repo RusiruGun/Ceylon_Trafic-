@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_login"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/btn_login">
+
+        <android.support.v7.widget.LinearLayoutCompat
+            android:id="@+id/linearLayoutCompat"
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/propic"
+            android:elevation="1dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+        </android.support.v7.widget.LinearLayoutCompat>
+
+        <ImageView
+            android:id="@+id/propic"
+            android:layout_width="230dp"
+            android:layout_height="200dp"
+            android:layout_below="@+id/linearLayoutCompat"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Denil Gunasekara"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/userPhone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="077 145 456 6"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/Reg_NO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register Number : 00245"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="normal|bold" />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</android.support.v7.widget.LinearLayoutCompat>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_login"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="251dp"
+        android:layout_height="302dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginStart="5dp"
+        android:background="@color/btn_login_bg"
+        android:focusedMonthDateColor="@color/btn_logut_bg"
+        android:weekNumberColor="@color/bg_main" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/fab"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+
+            android:layout_alignParentTop="true"
+
+            android:background="@android:drawable/ic_input_add"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/fishPriceList"
+            android:layout_width="match_parent"
+            android:layout_height="319dp"
+            android:paddingTop="10dp"
+            android:textAlignment="textEnd"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+
+        </android.support.v7.widget.RecyclerView>
+    </RelativeLayout>
+
+</LinearLayout>

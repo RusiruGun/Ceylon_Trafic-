@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">Derana FM</string>
+    <string name="app_name_two">Derana FM</string>
+
+    <string name="Log_out">Log Out</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Customer_prompt">Choose a coustomer</string>
+    <string name="Order_prompt">Choose a Order From</string>
+    <string name="Agent_prompt">Agent/Agency</string>
+
+
+    <string-array name="Customer_arrays">
+
+        <item>SINGER</item>
+        <item>ABANS</item>
+        <item>DINAPALA</item>
+        <item>HSBC</item>
+        <item>HNB</item>
+        <item>HILTON</item>
+        <item>REGENCY</item>
+        <item>AMAYA</item>
+    </string-array>
+
+    <string-array name="Order_from">
+        <item>Select Customer type</item>
+        <item>second one</item>
+        <item>third one</item>
+    </string-array>
+
+    <string-array name="Agent_arrays">
+        <item>Agent1</item>
+        <item>Agent2</item>
+        <item>Agent3</item>
+        <item>Agent3</item>
+    </string-array>
+
+</resources>

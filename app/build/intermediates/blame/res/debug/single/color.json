@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\7ae4d0d480722627b9e3787385fd8ab31fa5517f\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_light.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\0f07787121b77263c26cf3b06ea16e5e3540b941\\output\\res\\color\\mcv_text_date_light.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\27e8454899aacb1d2264c3c92003d83b88aeaab0\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NethFM\\NewSalles\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_dark.xml",
+        "source": "C:\\Users\\Rusiru\\.android\\build-cache\\0f07787121b77263c26cf3b06ea16e5e3540b941\\output\\res\\color\\mcv_text_date_dark.xml"
+    }
+]
